@@ -1,0 +1,11 @@
+{
+    "LUCENE_VERSION": "LUCENE_48",
+
+    "doc-index": {
+        "FILE_PATH": "/Users/admin/index-storage/doc-index"
+    },
+
+    "param-index": {
+        "FILE_PATH": "/Users/admin/index-storage/param-index"
+    }
+}
